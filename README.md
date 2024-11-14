@@ -1,7 +1,8 @@
 # Fitting Poisson  distribution
+
 ### Name : Sanjay sivaramakrishnan M 
 ### Register no : 212223240151
-### Date : 
+
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
