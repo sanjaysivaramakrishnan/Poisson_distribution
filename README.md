@@ -1,8 +1,5 @@
 # Fitting Poisson  distribution
 
-### Name : Sanjay sivaramakrishnan M 
-### Register no : 212223240151
-
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
@@ -34,6 +31,9 @@ The Poisson distribution is the discrete probability distribution of the number 
 
 # Program :
 ```
+### Name : Sanjay sivaramakrishnan M 
+### Register no : 212223240151
+
 import numpy as np
 import math
 import scipy.stats
